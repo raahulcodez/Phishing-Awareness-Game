@@ -17,3 +17,8 @@ This project is designed to educate about various forms and techniques of phishi
 - A ransomware attack is simulated to illustrate severity and consequences.
 - Provide playable experience with clues, puzzles, and cipher messages, along with learning about Phishing. 
 - Game Objective: Crack the 4-digit ransomware key within time limit.
+
+  ## Running the project:
+  1. Clone the repository
+  2. Run the `main.py`.
+  3. Install missing modules, if you encounter `ModuleNotFoundError`.
