@@ -6,7 +6,7 @@ This project is designed to educate about various forms and techniques of phishi
 - **Deceptive messages:** SMS/Emails pretending to be authentic, tricking users into divulging sensitive data.
 
 ## Aim - The 3E's of the project:
-= To **educate** about various forms and techniques of phishing attacks.
+- To **educate** about various forms and techniques of phishing attacks.
 - To **empower** users to recognize and respond effectively to phishing attempts.
 - To **equip** individuals with the knowledge to avoid falling victim to such attacks.
 
