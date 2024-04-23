@@ -12,7 +12,7 @@ This project is designed to educate about various forms and techniques of phishi
 
 ## Workflow:
 
-<img src = "https://cdn.discordapp.com/attachments/946426846113841184/1216382897347362876/image.png?ex=66002fda&is=65edbada&hm=c00bd9d501155f14ce482ebdad35c6d374da5a4d77f9bdb3efb07ae6e636c635&" width = 600px>
+![image](https://github.com/raahulcodez/Phishing-Awareness-Game/assets/118956665/a89070c4-52d1-4c5b-8006-731779c14952)
 
 - A ransomware attack is simulated to illustrate severity and consequences.
 - Provide playable experience with clues, puzzles, and cipher messages, along with learning about Phishing. 
